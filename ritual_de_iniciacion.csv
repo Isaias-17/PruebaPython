@@ -1,0 +1,6 @@
+SKU,size,delivered_at,address_line_1,address_line_2,postal_code,locality,city,state,country,notes
+asdf01,17,1657861200,Orquideas 7,Coacalco,55910,Hda. Coacalco,Coacalco de Berriozabal,EDOMEX,Mex,,
+WR524927,22,1658120400,Monterrey 20,Miguel Hidalgo,55730,Miguel Hidalgo,CDMX,Mex,,
+WR524927,10,1658120400,Monterrey 20,,55730,Miguel Hidalgo,CDMX,Mex,,
+DEPOR-XYZ-BLN-41,70,1659157200,Aculco 520,Alvaro Obregon,55620,Alvaro Obregon,CDMX,Mex,,
+PRUEbA-1,10,1657809840,Prueba 001,Cargamos,55770,Miguel Hidalgo,CDMX,Mex,,
